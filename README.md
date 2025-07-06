@@ -1,5 +1,7 @@
 The website consists of a Login/Sign up page for Colleges as well as students having User-ID and Password.
+
 The site for Candidate will consist of candidate’s details, preference submission, allocation details and payment window.
+
 Candidate’s Details: In this page Student’s can fill their personal and academic details for the purpose of college allocation.Details to be filled by Student:
 ●
 Name
@@ -17,7 +19,9 @@ Address
 Category
 ●
 Nationality
+
 Preference Submission :This page will have a list of different courses offered by colleges and students can add courses(in their respective colleges) in their preference list and submit it.
+
 Allocation Details: This page will show the results of allocation of the student after each round.
 Information available at this page:
 ●
