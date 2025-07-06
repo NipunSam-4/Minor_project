@@ -39,9 +39,11 @@ Payment Overview:
 External Link for Fee Payment(such as UPI, debit/Credit cards, Wallets,etc.)
 ●
 Payment Status
-○
-The Site for College consists of View/Edit College details, Student details,College Registration Page.
+
+The Site for College consists of View/Edit College details, Student details,College Registration Page. 
+
 College Registration Page: This page allows new colleges to register for the allocation process and provide all necessary details for participation.
+
 Necessary Details to be filled by College:
 ●
 College’ Name
@@ -55,6 +57,7 @@ Programs Available
 Total Seats of a Course
 ●
 Type of Institute
+
 Change/View College details: This page has information of seats at that college for different courses and programs and they can also update details of their college.
 College can view Information :
 ●
@@ -74,6 +77,7 @@ Add or Remove a Branch or Program
 Change Number of Seats of Course(s)
 ●
 Contact’s Information
+
 Student details: This page will give access to college to see details of students admitted in that institute.They can also filter students according to their Programs and Courses.
 Student’s Details to be shown:
 ●
